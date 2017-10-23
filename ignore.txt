@@ -1,0 +1,6 @@
+config/BiomeTweaker/**
+config/CodeChickenCore.cfg
+config/InvTweaks.cfg
+config/LaunchGui.cfg
+config/NEI/client.cfg
+config/journeymap_ModInfo.cfg

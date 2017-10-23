@@ -7,7 +7,7 @@
             {"name": "Thaumcraft:blockCustomOre:", "metadata": 3, "weight":20},
 			{"name": "Thaumcraft:blockCustomOre:", "metadata": 4, "weight":20},
 			{"name": "Thaumcraft:blockCustomOre:", "metadata": 5, "weight":10},
-			{"name": "Thaumcraft:blockCustomOre:", "metadata": 6, "weight":10},
+			{"name": "Thaumcraft:blockCustomOre:", "metadata": 6, "weight":10}
         ],
         "material": "minecraft:stone",
         "clusterSize": 32,
